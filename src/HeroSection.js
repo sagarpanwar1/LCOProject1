@@ -9,7 +9,7 @@ const HeroSection = () => {
           necessitatibus, quas voluptas beatae optio maxime cupiditate at fuga
           officiis odit rem provident nobis esse magni! Lorem ipsum dolor sit amet
           consectetur, adipisicing elit. Assumenda velit dolorem repudiandae qui
-          rerum possimus sit animi. Illo, laudantium ea!
+          rerum possimus sit animi. Illo, laudantium ea!kjdkjqhdkjqd
         </p>
         <hr className="my-4" />
         <p>
